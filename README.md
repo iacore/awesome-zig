@@ -263,8 +263,9 @@
 - ### Database Operation
 
   - [lithdew/lmdb-zig🗒️Lightweight, fully-featured, idiomatic cross-platform Zig bindings to Lightning Memory-Mapped Database (LMDB).](https://github.com/lithdew/lmdb-zig)
-  - [zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. ](https://github.com/vrischmann/zig-sqlite)
-  - [zig-sqlite3🗒️sqlite3 wrapper for Zig ](https://github.com/nektro/zig-sqlite3)
+  - [zig-sqlite🗒️zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig.](https://github.com/vrischmann/zig-sqlite)
+  - [zig-sqlite3🗒️sqlite3 wrapper for Zig](https://github.com/nektro/zig-sqlite3)
+  - [tkrzw-zig🗒️tkrzw wrapper for Zig](https://github.com/locriacyber/tkrzw-zig)
 
 - ### Encryption / Encoding / Decoding
 
